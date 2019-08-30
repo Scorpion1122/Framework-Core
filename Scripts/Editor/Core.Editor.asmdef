@@ -1,0 +1,14 @@
+{
+    "name": "Core.Editor",
+    "references": [
+        "GUID:517c9e93d278046459bbdda0c5dd6073"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": []
+}
