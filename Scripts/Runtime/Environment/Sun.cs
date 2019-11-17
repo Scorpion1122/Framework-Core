@@ -13,7 +13,7 @@ namespace Thijs.Core.Environment
         [SerializeField, Range(0, 24)] int hour;
         [SerializeField, Range(0, 60)] int minutes;
 
-        private Light light;
+        private new Light light;
         private DateTime time;
 
         [SerializeField]
