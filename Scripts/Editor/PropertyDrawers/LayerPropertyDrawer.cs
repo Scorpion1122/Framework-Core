@@ -14,7 +14,7 @@ namespace Thijs.Core.PropertyAttributes
             string selectedName = LayerMask.LayerToName(property.intValue);
             int selectedIndex = Array.IndexOf(layers, selectedName);
             
-            int newSelectedIndex = EditorGUI.Popup(position, label.ToString(), selectedIndex, layers);
+            int newSelectedIndex = EditorGUI.Popup(position, label.text, selectedIndex, layers);
 
             if (newSelectedIndex != selectedIndex)
                 property.intValue = LayerMask.NameToLayer(layers[newSelectedIndex]);
