@@ -24,6 +24,23 @@ namespace System
 			}
 			return builder.ToString();
 		}
-	}
+		
+		public static string GetDisplayName(string rawName)
+		{
+			StringBuilder result = new StringBuilder();
+			for (int i = 0; i < rawName.Length; i++)
+			{
+				char character = rawName[i];
 
+				if (i == 0)
+					character = Char.ToUpper(character);
+				else if (Char.IsUpper(character))
+					result.Append(" ");
+                
+				result.Append(character);
+			}
+
+			return result.ToString();
+		}
+	}
 }
