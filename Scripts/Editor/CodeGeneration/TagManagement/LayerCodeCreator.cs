@@ -4,7 +4,7 @@ using System.Text;
 using UnityEditorInternal;
 using System.IO;
 
-namespace Thijs.Framework.CodeGeneration.TagManagement
+namespace TKO.Framework.CodeGeneration.TagManagement
 {
     public class LayerCodeCreator
     {

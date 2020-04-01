@@ -1,6 +1,6 @@
 using System;
 
-namespace Thijs.Core.Services
+namespace TKO.Core.Services
 {
     public class ClassFactory : BaseServiceFactory
     {

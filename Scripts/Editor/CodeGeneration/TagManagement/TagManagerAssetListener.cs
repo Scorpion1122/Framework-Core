@@ -1,7 +1,7 @@
 ﻿using UnityEngine;
 using UnityEditor;
 
-namespace Thijs.Framework.CodeGeneration.TagManagement
+namespace TKO.Framework.CodeGeneration.TagManagement
 {
     public class TagManagerAssetListener : AssetPostprocessor
     {

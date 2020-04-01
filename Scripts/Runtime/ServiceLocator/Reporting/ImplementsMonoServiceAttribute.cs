@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Thijs.Core.Services
+namespace TKO.Core.Services
 {
     [AttributeUsage(AttributeTargets.Field, AllowMultiple = true)]
     public class ImplementsMonoServiceAttribute : Attribute

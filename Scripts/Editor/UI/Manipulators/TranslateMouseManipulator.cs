@@ -1,7 +1,7 @@
 using UnityEngine;
 using UnityEngine.UIElements;
 
-namespace Thijs.Framework.UI
+namespace TKO.Framework.UI
 {
     public class TranslateMouseManipulator : MouseManipulator
     {

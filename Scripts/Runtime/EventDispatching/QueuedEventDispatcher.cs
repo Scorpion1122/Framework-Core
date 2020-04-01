@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-namespace Thijs.Core.EventDispatching
+namespace TKO.Core.EventDispatching
 {
     public class QueuedEventDispatcher : IEventDispatcher
     {

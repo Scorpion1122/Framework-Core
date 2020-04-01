@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Reflection;
 using UnityEngine;
 
-namespace Thijs.Core.Services
+namespace TKO.Core.Services
 {
     public class ServiceInjector
     {

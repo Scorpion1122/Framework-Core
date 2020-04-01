@@ -1,7 +1,7 @@
 using System;
 using UnityEngine;
 
-namespace Thijs.Core.Environment
+namespace TKO.Core.Environment
 {
     [RequireComponent(typeof(Light))]
     public class Sun : MonoBehaviour

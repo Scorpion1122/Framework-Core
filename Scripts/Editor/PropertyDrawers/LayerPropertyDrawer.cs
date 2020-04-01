@@ -3,7 +3,7 @@ using UnityEditor;
 using UnityEditorInternal;
 using UnityEngine;
 
-namespace Thijs.Core.PropertyAttributes
+namespace TKO.Core.PropertyAttributes
 {
     [CustomPropertyDrawer(typeof(LayerAttribute))]
     public class LayerPropertyDrawer : PropertyDrawer

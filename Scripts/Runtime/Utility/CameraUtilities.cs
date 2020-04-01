@@ -1,6 +1,6 @@
 ﻿using UnityEngine;
 
-namespace Thijs.Core.Utilities
+namespace TKO.Core.Utilities
 {
 	public static class CameraUtilities
 	{

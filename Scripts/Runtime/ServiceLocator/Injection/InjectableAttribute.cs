@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Thijs.Core.Services
+namespace TKO.Core.Services
 {
     [AttributeUsage(AttributeTargets.Class)]
     public class InjectableAttribute : Attribute

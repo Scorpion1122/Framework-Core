@@ -1,4 +1,4 @@
-namespace Thijs.Core.EventDispatching
+namespace TKO.Core.EventDispatching
 {
     public interface IEventBase
     {

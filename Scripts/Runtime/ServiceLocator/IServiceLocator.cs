@@ -1,7 +1,7 @@
 using System;
 using UnityEngine;
 
-namespace Thijs.Core.Services
+namespace TKO.Core.Services
 {
 	public interface IServiceLocator
 	{

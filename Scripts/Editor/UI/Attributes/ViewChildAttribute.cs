@@ -1,6 +1,6 @@
 using System;
 
-namespace Thijs.Framework.UI
+namespace TKO.Framework.UI
 {
     [AttributeUsage(AttributeTargets.Field)]
     public class ViewChildAttribute : Attribute

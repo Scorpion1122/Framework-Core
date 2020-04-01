@@ -1,6 +1,6 @@
 ﻿using UnityEngine;
 
-namespace Thijs.Core.Utilities
+namespace TKO.Core.Utilities
 {
 	[ExecuteInEditMode]
 	[RequireComponent(typeof(EdgeCollider2D))]

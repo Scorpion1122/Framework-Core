@@ -1,6 +1,6 @@
 using System;
 
-namespace Thijs.Core.Environment
+namespace TKO.Core.Environment
 {
     public static class SunUtility
     {

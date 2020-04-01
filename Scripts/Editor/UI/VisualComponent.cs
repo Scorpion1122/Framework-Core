@@ -1,6 +1,6 @@
 ﻿using UnityEngine.UIElements;
 
-namespace Thijs.Framework.UI
+namespace TKO.Framework.UI
 {
     public abstract class VisualComponent : VisualElement, IVisualComponent
     {

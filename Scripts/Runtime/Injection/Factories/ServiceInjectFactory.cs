@@ -1,9 +1,9 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Reflection;
-using Thijs.Core.Services;
+using TKO.Core.Services;
 
-namespace Thijs.Core.Injection
+namespace TKO.Core.Injection
 {
     public class ServiceInjectFactory : InjectFactory<ServiceAttribute>
     {

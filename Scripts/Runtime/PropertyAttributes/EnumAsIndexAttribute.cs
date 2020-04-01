@@ -1,7 +1,7 @@
 using System;
 using UnityEngine;
 
-namespace Thijs.Core.PropertyAttributes
+namespace TKO.Core.PropertyAttributes
 {
     public class EnumAsIndexAttribute : PropertyAttribute
     {

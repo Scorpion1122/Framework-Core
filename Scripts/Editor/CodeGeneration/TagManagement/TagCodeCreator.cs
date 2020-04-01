@@ -3,7 +3,7 @@ using System.Text;
 using System.IO;
 using UnityEditorInternal;
 
-namespace Thijs.Framework.CodeGeneration.TagManagement
+namespace TKO.Framework.CodeGeneration.TagManagement
 {
     public class TagCodeCreator
     {

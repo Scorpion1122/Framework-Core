@@ -1,4 +1,4 @@
-namespace Thijs.Framework.UI
+namespace TKO.Framework.UI
 {
     public interface IVisualComponent
     {

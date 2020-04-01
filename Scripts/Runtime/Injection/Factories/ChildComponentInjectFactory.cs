@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Reflection;
 using UnityEngine;
 
-namespace Thijs.Core.Injection
+namespace TKO.Core.Injection
 {
     public class ChildComponentInjectFactory : InjectFactory<ChildAttribute>
     {

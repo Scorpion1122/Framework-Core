@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-namespace Thijs.Core.Injection
+namespace TKO.Core.Injection
 {
     public static class Inject
     {

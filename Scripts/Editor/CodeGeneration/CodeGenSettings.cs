@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-namespace Thijs.Framework.CodeGeneration
+namespace TKO.Framework.CodeGeneration
 {
 	public static class CodeGenSettings
 	{

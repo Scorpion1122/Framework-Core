@@ -1,7 +1,7 @@
 ﻿
 using System;
 
-namespace Thijs.Core.EventDispatching
+namespace TKO.Core.EventDispatching
 {
     public abstract class EventDelegate
     {

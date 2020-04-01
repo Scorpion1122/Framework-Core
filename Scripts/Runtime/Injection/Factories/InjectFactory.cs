@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-namespace Thijs.Core.Injection
+namespace TKO.Core.Injection
 {
     public abstract class InjectFactory<T> : IInjectFactory where T : Attribute
     {

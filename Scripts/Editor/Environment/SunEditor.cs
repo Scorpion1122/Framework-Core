@@ -1,6 +1,6 @@
 using UnityEditor;
 
-namespace Thijs.Core.Environment
+namespace TKO.Core.Environment
 {
     [CustomEditor(typeof(Sun))]
     public class SunEditor : Editor

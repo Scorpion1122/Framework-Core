@@ -1,6 +1,6 @@
 using UnityEngine;
 
-namespace Thijs.Core.Services
+namespace TKO.Core.Services
 {
     /// <summary>
     /// Monobehaviour that is used to register services into the service locator. 

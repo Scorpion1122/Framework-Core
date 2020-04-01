@@ -2,7 +2,7 @@ using UnityEditor;
 using UnityEngine;
 using UnityEngine.Assertions;
 
-namespace Thijs.Core.PropertyAttributes
+namespace TKO.Core.PropertyAttributes
 {
     public abstract class ArrayElementPropertyDrawer : PropertyDrawer
     {

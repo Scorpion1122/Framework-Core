@@ -2,7 +2,7 @@ using System;
 using UnityEditor;
 using UnityEngine;
 
-namespace Thijs.Core.PropertyAttributes
+namespace TKO.Core.PropertyAttributes
 {
     [CustomPropertyDrawer(typeof(EnumAsIndexAttribute))]
     public class EnumAsIndexPropertyDrawer : ArrayElementPropertyDrawer

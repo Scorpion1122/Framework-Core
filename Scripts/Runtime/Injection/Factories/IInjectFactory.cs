@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Thijs.Core.Injection
+namespace TKO.Core.Injection
 {
     public interface IInjectFactory
     {

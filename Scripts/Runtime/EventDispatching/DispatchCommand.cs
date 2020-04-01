@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Thijs.Core.EventDispatching
+namespace TKO.Core.EventDispatching
 {
     public struct DispatchCommand
     {

@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Reflection;
 
-namespace Thijs.Core.Services
+namespace TKO.Core.Services
 {
     /// <summary>
     /// Registers services that are declared in a subclass of this class and are marked with the

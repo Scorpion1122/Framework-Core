@@ -1,10 +1,10 @@
 using System;
 using System.Collections.Generic;
 using UnityEngine;
-using ServiceGroup = System.Collections.Generic.Dictionary<object, Thijs.Core.Services.Registration>;
-using ServicePair = System.Collections.Generic.KeyValuePair<object, Thijs.Core.Services.Registration>;
+using ServiceGroup = System.Collections.Generic.Dictionary<object, TKO.Core.Services.Registration>;
+using ServicePair = System.Collections.Generic.KeyValuePair<object, TKO.Core.Services.Registration>;
 
-namespace Thijs.Core.Services
+namespace TKO.Core.Services
 {
     public class ServiceLocator : IServiceLocator
     {

@@ -4,7 +4,7 @@ using System.Reflection;
 using UnityEditor;
 using UnityEngine;
 
-namespace Thijs.Core.Services
+namespace TKO.Core.Services
 {
     public static class StaticServiceReporter
     {
