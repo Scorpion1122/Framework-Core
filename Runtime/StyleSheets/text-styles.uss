@@ -1,0 +1,24 @@
+.text-orange-gradient-header {
+    -unity-font: resource('Fonts/AsapCondensed-Bold');
+    color: rgb(255, 109, 2);
+}
+
+.text-black-sh-st {
+    -unity-font: resource('Fonts/AsapCondensed-Bold');
+    color: rgb(255, 255, 255);
+}
+
+.text-red-fill-sh-st {
+    -unity-font: resource('Fonts/AsapCondensed-Bold');
+    color: rgb(255, 129, 122);
+}
+
+.text-blue-fill-sh-st {
+    -unity-font: resource('Fonts/AsapCondensed-Bold');
+    color: rgb(101, 192, 247);
+}
+
+.text-blue-sh-st {
+    -unity-font: resource('Fonts/AsapCondensed-Bold');
+    color: rgb(255, 255, 255);
+}

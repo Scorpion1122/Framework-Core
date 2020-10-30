@@ -1,0 +1,16 @@
+<ui:UXML xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements">
+    <ui:VisualElement name="root">
+        <Style src="/Assets/SPUI-Toolkit/Editor/Styles/markdown-styles.uss" />
+        <uie:Toolbar>
+            <uie:ToolbarSpacer />
+            <uie:ToolbarButton text="Edit" name="edit-button" />
+        </uie:Toolbar>
+        <ui:ScrollView mode="VerticalAndHorizontal" show-horizontal-scroller="true" show-vertical-scroller="true" name="scroll-view" class="expand" style="flex-grow: 0; flex-shrink: 1;">
+            <ui:VisualElement name="file-content" />
+        </ui:ScrollView>
+        <ui:VisualElement name="file-missing">
+            <ui:Label text="There is no changelog in this project!" name="no-changelog-label" />
+            <ui:Button text="Create Changelog" name="create-file-button" />
+        </ui:VisualElement>
+    </ui:VisualElement>
+</ui:UXML>
