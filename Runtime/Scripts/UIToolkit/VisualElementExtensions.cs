@@ -5,7 +5,7 @@ using UnityEngine.UIElements;
 
 namespace TKO.UI.Toolkit
 {
-    public static class VisualElementExtentions
+    public static partial class VisualElementExtentions
     {
         private static readonly BindingFlags BINDING_FLAGS = BindingFlags.Instance | BindingFlags.NonPublic;
 
